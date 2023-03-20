@@ -1,0 +1,2 @@
+# EternaScripts
+my eternascripts
